@@ -1,4 +1,6 @@
 HR Analytics Dashboard 📊
+
+
 A comprehensive Power BI dashboard for HR analytics and workforce insights, featuring interactive visualizations and real-time data analysis.
 
 📋 Overview
